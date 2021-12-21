@@ -18,7 +18,7 @@ public class practical10
             j++;
         }
     }
-    //  this projects in this java 
+    //  this projects in this java
     public static void main(String[] args)
     {
         int i=0;

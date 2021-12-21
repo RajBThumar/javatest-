@@ -8,7 +8,7 @@ public class practical11_2 {
     static String[] num;
     static String turn;
 
-
+// this fill  caret
     static String result()
     {
         for (int a = 0; a < 8; a++) {
